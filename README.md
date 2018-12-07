@@ -1,2 +1,2 @@
 # BasicBallGame
-Starting to play around with standard game making in Unity (not VR/AR).
+Playing around with standard game making in Unity (not VR/AR) to practice C#.
